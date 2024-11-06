@@ -1,0 +1,21 @@
+# Node modules (for Node.js projects)
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Compiled files
+*.class
+*.pyc
+
+# IDE files
+.idea/
+*.iml
+*.vscode/
